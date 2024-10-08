@@ -1,2 +1,0 @@
-Neptune config
-Neptune cpu = i9 20000k
